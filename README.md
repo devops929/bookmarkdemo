@@ -30,3 +30,4 @@ this are the links
 | Mahmood Abbas | Politics | maabbaas@pl.com |
 | Habib Ansari | Theology | mtheology@ibm.com |
 | Kamal Hossain | Law | kh@dhakabar.com |
+| Najmul Arefin | IT | ceonajmul@nt.com |
