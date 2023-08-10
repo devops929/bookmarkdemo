@@ -22,4 +22,10 @@ this are the links
 `http://www.ibm.com`
 
 ![najmul](./image/najmulha.jpg)  
-![mhaque](./image/mh.png)
+![mhaque](./image/mh.png)  
+
+| name | dept | email
+| --- | ----  | --- |
+| Mohammad Haque | DSE | mitajul@gmail.com |
+| Mahmood Abbas | Politics | maabbaas@pl.com |
+| Habib Ansari | Theology | mtheology@ibm.com |
