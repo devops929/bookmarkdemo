@@ -29,3 +29,4 @@ this are the links
 | Mohammad Haque | DSE | mitajul@gmail.com |
 | Mahmood Abbas | Politics | maabbaas@pl.com |
 | Habib Ansari | Theology | mtheology@ibm.com |
+| Kamal Hossain | Law | kh@dhakabar.com |
